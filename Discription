@@ -1,0 +1,13 @@
+## ABOUT THIS PROJECT
+VLSI Circuit Simulator
+
+This project is a Python-based VLSI Circuit Simulator that enables users to create, simulate, and analyze digital circuits at the gate level. The simulator supports basic logic gates such as AND, OR, NOT, NAND, NOR, XOR, and XNOR, allowing users to visualize circuit behavior and verify outputs for different input combinations.
+
+Features
+Logic gate simulation
+Digital circuit design and testing
+Truth table generation
+Gate-level circuit analysis
+User-friendly graphical interface (Tkinter)
+Real-time output visualization
+Extensible architecture for adding new components
